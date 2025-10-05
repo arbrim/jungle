@@ -116,4 +116,20 @@ When to use each
 
 
 
-DOM vs Virtual Dom...
+on start from component tree react takes these and creates a js data structured called `virual dom`
+
+virtual dom is different from dom - is lightweight in memory
+
+
+Library vs Framework
+
+ReactJS = library = a tool
+Framework = angular & vue = a toolset
+
+---
+
+
+
+
+--- components structure...
+
