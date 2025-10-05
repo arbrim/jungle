@@ -1,12 +1,14 @@
 import HelloWorld from './HelloWorld'
 import Hello from './Hello'
+import ListGroup from './components/ListGroup'
 
 function App() {
 
-  return <div>
+  return <>
+    <ListGroup />
     <HelloWorld />
     <Hello />
-  </div>
+  </>
 }
 
 export default App

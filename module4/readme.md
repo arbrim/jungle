@@ -133,3 +133,8 @@ Framework = angular & vue = a toolset
 
 --- components structure...
 
+Use list group from https://getbootstrap.com/docs/5.3/components/list-group/
+
+wrapping multiline component with fragment <></> instead <div></div>
+
+map, filter, reduce, foreach
